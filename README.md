@@ -1,2 +1,2 @@
 # TacToe-ga
-Just trying to catch wwith Python and git somehow
+Just trying to catch with Python and Git somehow
